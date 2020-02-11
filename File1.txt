@@ -27,3 +27,5 @@ Commit #10 Squash activity
 
 Commit #11 Squash activity
 
+Commit #12 Squash activity
+
