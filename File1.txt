@@ -1,1 +1,14 @@
 Nouvelle ligne dans le fichier
+Ecore
+
+<ul>
+Salut
+</ul>
+
+Message critique
+
+Commit #2 Squash activity
+
+Commit #3 Squash activity
+
+Commit #4 Squash activity
