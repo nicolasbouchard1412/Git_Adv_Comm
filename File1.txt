@@ -6,3 +6,5 @@ Salut
 </ul>
 
 Message critique
+
+Commit #2 Squash activity
