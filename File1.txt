@@ -10,3 +10,5 @@ Message critique
 Commit #2 Squash activity
 
 Commit #3 Squash activity
+
+Commit #4 Squash activity
