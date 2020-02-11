@@ -1,1 +1,8 @@
 Nouvelle ligne dans le fichier
+Ecore
+
+<ul>
+Salut
+</ul>
+
+Message critique
