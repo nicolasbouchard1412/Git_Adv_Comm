@@ -20,3 +20,6 @@ Commit #6 Squash activity
 Commit #7 Squash activity
 
 Commit #8 Squash activity
+
+Commit #9 Squash activity
+
