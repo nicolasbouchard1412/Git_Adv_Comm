@@ -31,4 +31,7 @@ Commit #12 Squash activity
 
 Commit #13 Squash activity
 
+Commit #14 Rebase activity
+
 Edit master, doesn't matter
+
