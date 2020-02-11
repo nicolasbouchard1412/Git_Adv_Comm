@@ -2,7 +2,7 @@ Nouvelle ligne dans le fichier
 Ecore
 
 <ul>
-Salut
+Salut, correction reset activity #3
 </ul>
 
 Message critique
