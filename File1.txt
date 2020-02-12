@@ -37,4 +37,11 @@ Edit master, doesn't matter
 
 Commit #15 Rebase activity - Dev1
 
+Commit #16 Rebase Squash activity - Dev1
+
+Commit #17 Rebase Squash activity - Dev1
+
+Commit #18 Rebase Squash activity - Dev1
+
+
 
