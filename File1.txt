@@ -43,4 +43,10 @@ Commit #17 Rebase Squash activity - Dev1
 
 Commit #18 Rebase Squash activity - Dev1
 
+Commit #19 Cherry-pick Demo commit 1
+
+Commit #20 Cherry-pick Demo commit 2
+
 No more comits after this line
+
+
