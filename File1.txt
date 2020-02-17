@@ -53,6 +53,8 @@ Commit #22 Squash exemple commit 2
 
 Commit #23 Squash exemple commit 3
 
+Commit #24 Squash exemple commit 4
+
 No more comits after this line
 
 
