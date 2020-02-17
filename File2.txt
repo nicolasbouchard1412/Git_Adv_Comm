@@ -7,3 +7,7 @@ Rebase activity dev2 - commit2
 Hotfix commit 1
 
 Hotfix commit 2
+
+Hotfix2 commit 1
+
+Hotfix2 commit 2
