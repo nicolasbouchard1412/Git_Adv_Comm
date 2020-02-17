@@ -49,6 +49,8 @@ Commit #20 Cherry-pick Demo commit 2
 
 Commit #21 Squash exemple commit 1
 
+Commit #22 Squash exemple commit 2
+
 No more comits after this line
 
 
