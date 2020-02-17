@@ -3,3 +3,5 @@ New File Developer 2
 Yep It's a new file
 
 Rebase activity dev2 - commit2
+
+Hotfix commit 1
